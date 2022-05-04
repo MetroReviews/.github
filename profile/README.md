@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  The Centralized Solution for Bot List Reviews
+  The Open-Source and Centralized Solution for Discord Bot List Reviews
 </p>
 
 ---
