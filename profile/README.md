@@ -9,3 +9,11 @@
 </p>
 
 ---
+
+<h4 align='center'>
+  About Us
+</h4>
+
+<p align="center">
+  Hey there 👋, Welcome to Metro Reviews, We aim to provide all Discord Bot Lists with a easy to integrate solution that simplifies their Queue and Claims process and provide developers with a solution that allows them to seamlessly add their bot to all their favourite lists ❤️
+</p>
