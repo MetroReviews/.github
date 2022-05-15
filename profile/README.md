@@ -27,7 +27,7 @@
 </h3>
 
 <ol align="center">
-  <li>Supported Lists - https://metrobots.xyz/lists</li>
+  <li align="center">Supported Lists - https://metrobots.xyz/lists</li>
 </ol>
 
 
