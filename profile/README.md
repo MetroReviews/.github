@@ -23,13 +23,14 @@
 ---
 
 <h3 align='center'>
-  Links and Socials
+  Links
 </h3>
 
 <ul>
-  <li>Supported Lists - https://metrobots.xyz/lists</li>
+  <li>Our Website - https://metrobots.xyz</li>
   <li>Requirements - https://metrobots.xyz/lists/rules/reqs</li>
   <li>Best Practices - https://metrobots.xyz/lists/rules/eq</li>
+  <li>Supported Lists - https://metrobots.xyz/lists</li>
 </ul>
 
 
