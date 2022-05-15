@@ -17,5 +17,5 @@
 <p align="center">
   Hey there 👋, Welcome to Metro Reviews, We aim to provide all Discord Bot Lists with a easy to integrate solution that simplifies their Queue and Claims process.
   <br /><br />
-  We also provide developers with a solution that allows them to seamlessly add their bot to all their favourite lists ❤️
+  We also provide developers with a solution that allows them to seamlessly add their bot to all of our supported lists ❤️
 </p>
