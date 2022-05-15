@@ -26,8 +26,8 @@
   Links and Socials
 </h3>
 
-<ul align="center">
-  <li align="center">Supported Lists - https://metrobots.xyz/lists</li>
+<ul>
+  <li>Supported Lists - https://metrobots.xyz/lists</li>
 </ul>
 
 
