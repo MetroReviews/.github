@@ -27,7 +27,8 @@
 </h3>
 
 <ul>
-  <li>Supported Lists - https://metrobots.xyz/lists</li>
+  <li>Lists - https://metrobots.xyz/lists</li>
+  <li>Requirements - https://metrobots.xyz/lists/rules/reqs</li>
 </ul>
 
 
