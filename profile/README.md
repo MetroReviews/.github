@@ -22,25 +22,4 @@
 
 ---
 
-<h3 align='center'>
-  Links
-</h3>
-
-<ul>
-  <li>Our Website - https://metrobots.xyz</li>
-  <li>Requirements - https://metrobots.xyz/lists/rules/reqs</li>
-  <li>Best Practices - https://metrobots.xyz/lists/rules/eq</li>
-  <li>Supported Lists - https://metrobots.xyz/lists</li>
-</ul>
-
-
---- 
-
-<h3 align='center'>
-  Submit a List
-</h3>
-
-<ul>
-  <li>Application - https://enroll.metrobots.xyz</li>
-</ul>
-
+This service is now dead. **You may self-host it if you really want to**
